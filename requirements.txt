@@ -1,0 +1,14 @@
+numpy<=1.24.3
+pandas==2.0.3
+scikit-learn==1.2.2
+tensorflow-macos==2.13.0
+tensorflow-metal==1.2.0
+plotly==5.15.0
+streamlit==1.24.0
+dash==2.11.0
+dash-bootstrap-components==1.4.1
+imblearn
+xgboost==2.1.4
+matplotlib==3.10.1
+seaborn==0.13.2
+lightgbm==4.6.0
