@@ -148,9 +148,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Name: Sujith S
 - GitHub: zenistu17
 - LinkedIn: Sujith S
-- Email: [Your Email Address]
+- Email: sujithsures@gmail.com
 
 ## **Acknowledgments**
 
 - Thanks to the open-source community for providing the tools and libraries used in this project.
-- Special thanks to [Your Mentor/Instructor/Team] for their guidance and support.
